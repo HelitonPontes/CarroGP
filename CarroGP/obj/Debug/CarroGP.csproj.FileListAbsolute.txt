@@ -1,0 +1,8 @@
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\bin\Debug\CarroGP.exe.config
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\bin\Debug\CarroGP.exe
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\bin\Debug\CarroGP.pdb
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\obj\Debug\CarroGP.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\obj\Debug\CarroGP.Properties.Resources.resources
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\obj\Debug\CarroGP.csproj.GenerateResource.cache
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\obj\Debug\CarroGP.exe
+C:\Users\Heliton\Source\Repos\CarroGP\CarroGP\obj\Debug\CarroGP.pdb
